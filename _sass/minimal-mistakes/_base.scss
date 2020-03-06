@@ -13,6 +13,7 @@ body {
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
+  font-size: $def-font-size;  // magaretjo add
   line-height: 2;
 
   &.overflow--hidden {
@@ -111,8 +112,11 @@ blockquote {
   padding-left: 1em;
   padding-right: 1em;
   font-style: italic;
-  border-left: 0.2em solid $primary-color;
-  background-color: mix(#fff, $primary-color, 70%);
+// magaretjo modified  
+  border-left: 0.2em solid $blockquote-color;
+  background-color: mix(#fff, $blockquote-color, 70%);
+//  border-left: 0.2em solid $primary-color;
+//  background-color: mix(#fff, $primary-color, 70%);
   
   cite {
     font-style: italic;
