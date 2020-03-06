@@ -81,8 +81,8 @@ MoSCoW Rule에 따라 백로그 항목별로 우선순위를 부여하여, 제�
 
 <div class="mg_subject_1"><b>Related Posts : </b></div> 
 <div class="mg_content_1">
-<a href="/agile-quickguide/Agile-QuickGuide03-스크럼팀구성/">QuickGuide 03</a> > 스크럼팀 구성 <br>
-<a href="/agile-quickguide/Agile-QuickGuide05-릴리즈계획/">QuickGuide 05</a> > 릴리즈 계획 수립 
+<a href="/agile-quickguide/Agile-QuickGuide04-제품백로그도출/">QuickGuide 04</a> > 제품 백로그 도출 <br>
+<a href="/agile-quickguide/Agile-QuickGuide06-소통&품질/">QuickGuide 06</a> > 의사소통 및 품질 계획 
 </div>
 <br>
 

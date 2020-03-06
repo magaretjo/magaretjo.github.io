@@ -43,10 +43,10 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
   - [Overview](/agile-quickguide/Agile-QuickGuide01-Overview/) 
   - 애자일 프로젝트의 시작
     - [QuickGuide 02](/agile-quickguide/Agile-QuickGuide02-프로젝트수행준비/) > 프로젝트 수행 준비
-    - [QuickGuide 03](/agile-quickguide/Agile-QuickGuide02-프로젝트수행준비/) > 스크림팀 구성
-    - [QuickGuide 04](/agile-quickguide/Agile-QuickGuide02-프로젝트수행준비/) > 제품백로그 도출
-    - 릴리즈계획 수립
-    - 의사소통계획 수립
+    - [QuickGuide 03](/agile-quickguide/Agile-QuickGuide03-스크림팀구성/) > 스크림팀 구성
+    - [QuickGuide 04](/agile-quickguide/Agile-QuickGuide04-제품백로그도출/) > 제품백로그 도출
+    - [QuickGuide 05](/agile-quickguide/Agile-QuickGuide05-릴리즈계획/) >  릴리즈계획 수립
+    - [QuickGuide 06](/agile-quickguide/Agile-QuickGuide06-소통&품질/) > 의사소통/품질 계획
     - 스크럼환경 구성
   - 애자일 프로젝트 실행
     - TBD
