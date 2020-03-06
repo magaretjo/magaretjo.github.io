@@ -38,7 +38,7 @@ MoSCoW Rule에 따라 백로그 항목별로 우선순위를 부여하여, 제�
 -	선택(Could-have) : 시간이 부족하다면 다음 릴리즈로 넘겨도 큰 문제가 없다.
 -	보류(Won't-have) : 좋기는 하지만 미뤄도 전혀 문제가 없다.
 
-![](/assets/images/agile-backlog-moscow.png)
+![](/assets/images/agile/agile-backlog-moscow.png)
 <br> 
 
 **제품 로드맵 작성** 
@@ -52,7 +52,7 @@ MoSCoW Rule에 따라 백로그 항목별로 우선순위를 부여하여, 제�
 
 프로젝트의 특성에 맞는 스프린트 “주기와 일정”을 정의하고 (전체 차수는 주기에 따라 결정) 각 스프린트 차수별로 주요 활동과 목표를 정의하도록 한다. 
 다음은 스프린트별 목표 정의의 예시이다.<br>
-![](/assets/images/agile-sprint-goal.png){: width="500"} 
+![](/assets/images/agile/agile-sprint-goal.png){: width="500"} 
  <br>
 
 스프린트의 목표가 정해지면 각 스프린트 동안 해야 할 백로그를 개략 선정하는데, 이를 “스프린트 매핑”이라 한다. 릴리즈 계획 수립 단계에서의 백로그 선정은 어디까지나 계획을 위한 후보 일감의 선정이며 확정은 아니다. 스프린트에 할당하는 일감은 매 스프린트 계획시 확정되는 것임을 다시 한번 강조한다. 
@@ -68,7 +68,7 @@ MoSCoW Rule에 따라 백로그 항목별로 우선순위를 부여하여, 제�
 
 <br>
 릴리즈 계획이 수립되고 나면 다음과 같이 프로젝트 전체 일정표를 작성하여 프로젝트 관계자와 공유하도록 하자.
-![](/assets/images/agile-release-plan.png){: width="900"}
+![](/assets/images/agile/agile-release-plan.png){: width="900"}
 
 
 - **제품 백로그는 언제 변경할 수 있는가 ?**

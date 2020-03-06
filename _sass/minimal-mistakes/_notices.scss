@@ -107,7 +107,7 @@
 
 .notice--memo {
   @include notice($memo-color);
-  line-height: 1;
+  line-height: 1.1;
   border: 1px dotted mix(#000, $memo-color, 50%);
 }
 

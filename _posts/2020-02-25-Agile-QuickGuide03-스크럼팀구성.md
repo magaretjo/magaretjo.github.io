@@ -28,11 +28,11 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
 스크럼 팀은 럭비 스포츠에서 스크럼을 짜는 것처럼 각자의 포지션을 유지한 채 공을 끊임없이 주고받으며(상호협력, 끊임없는 communication), 단기적인 목표(바로 스프린트의 목표를 말함)를 향해 전력질주할 수 있는 팀을 말한다.
 
 ### 스크럼 팀의 특징
-![](/assets/images/agile-scrum-team-def.png)
+![](/assets/images/agile/agile-scrum-team-def.png)
 【 스크럼 팀 구성원의 역할 】 (표2-4)
 
 ### 구성원의 역할
-![](/assets/images/agile-scrum-roles-def.png)
+![](/assets/images/agile/agile-scrum-roles-def.png)
 
 
 **작성자 메모 :** 
@@ -49,7 +49,7 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
 다음은 스크럼 팀으로 구성된 프로젝트 조직도 예시이다.
 
 ### 스크럼 프로젝트 조직도 예시
-![](/assets/images/agile-scrum-org-example.png)
+![](/assets/images/agile/agile-scrum-org-example.png)
 
 ※ Scrum Of Scrums(SOS)의 구성에 대해서는 품질/소통 Planning 섹션에서 다룬다. 
 

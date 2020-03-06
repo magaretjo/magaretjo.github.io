@@ -39,12 +39,12 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
  
 ### Life Cycle 모델 
 
-![](/assets/images/agile-lifecycle-models.png) 
+![](/assets/images/agile/agile-lifecycle-models.png) 
 
 <!--
 | Pure 반복 모델 | Hybrid 반복 모델 | Waterfall 內 반복 모델 |
 |:---: |:---: |:---: |
-| ![](/assets/images/agile-lifecycle-puremodel.png)  | ![](/assets/images/agile-lifecycle-hybridmodel.png) | ![](/assets/images/agile-lifecycle-waterfallmodel.png) |
+| ![](/assets/images/agile/agile-lifecycle-puremodel.png)  | ![](/assets/images/agile/agile-lifecycle-hybridmodel.png) | ![](/assets/images/agile/agile-lifecycle-waterfallmodel.png) |
 //-->
 
 Pure하게 할 것인가 아니면 Hybrid 방식의 Life Cycle을 수립할 것인가에 대해서는 또한 여러가지 변수를 고려해야 한다.
@@ -54,13 +54,13 @@ Pure하게 할 것인가 아니면 Hybrid 방식의 Life Cycle을 수립할 것�
 
 ### Life Cycle 선정 주요 기준 
 
-![](/assets/images/agile-lifecycle-base-cond.png)
+![](/assets/images/agile/agile-lifecycle-base-cond.png)
 
 <!--
 
 | ● 기술적 복잡도에 따른 모델 선정 | ● 요구사항 Fix 수준에 따른 모델 선정 |
 |--- |--- |
-| ![](https://engineering-skcc.github.io/assets/images/agile-lifecycle-base-tech.png) | ![](https://engineering-skcc.github.io/assets/images/agile-lifecycle-base-req.png) |
+| ![](https://engineering-skcc.github.io/assets/images/agile/agile-lifecycle-base-tech.png) | ![](https://engineering-skcc.github.io/assets/images/agile/agile-lifecycle-base-req.png) |
 //--> 
 
 기존에 없던 새로운 기능보다 기존에 있던 기능을 거의 유지하면서 새로운 플랫폼/인프라에 전환하는 것이 목표인 프로젝트이면 이 역시 애자일로 하는 것을 다시 고려해봐야 한다. 비즈니스 기능이 새로와지는 것이 없다면 적극적인 PO(Product Owner:제품 책임자)의 참여가 없을 가능성이 높다.
@@ -110,7 +110,7 @@ PO가 관여하지 않는 스크럼 조직이라면 스프린트마다 리뷰가
 스크럼 프로젝트의 공정은 스프린트를 반복적으로 진행하는 것으로 구성되며, 기본적인 스크럼 프로세스는 다음과 같다. 
 
  
-![](/assets/images/agile-scrum-process.png)
+![](/assets/images/agile/agile-scrum-process.png)
 
 *※ 스크럼 프로세스의 각 이벤트 규칙에 대해서는 “스크럼 가이드북”을 참고하기 바람*
 <br>
@@ -120,7 +120,7 @@ PO가 관여하지 않는 스크럼 조직이라면 스프린트마다 리뷰가
 당사 방법론에서는 스크럼 프로젝트 공정 중 본격적인 스프린트 시작을 위해 준비 및 Planning하는 단계를 <span style="color:#d03030;">스프린트 제로(Sprint #0)</span>라고 표현한다.
 개발 조직(스크럼팀) 구성, 전체 일감(제품 백로그) 도출 및 스프린트 주기와 회수를 결정하고 전체적인 Release Plan과 이에 맞는 스크럼 환경을 조성하는 것이 스프린트 제로 단계에서 해야 하는 일이다. 
 
-![](/assets/images/agile-scrum-project-process.png)
+![](/assets/images/agile/agile-scrum-project-process.png)
 
 
 이제 다음 장에서는 스프린트 제로 단계로 진입하여 스크럼 팀을 어떻게 구성할지에 대한 내용을 다루도록 하겠다.

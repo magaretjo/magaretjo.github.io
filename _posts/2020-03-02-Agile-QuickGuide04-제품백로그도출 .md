@@ -31,7 +31,7 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
 제품 백로그는 출시하려는 제품에 필요하다고 알려진 모든 요구사항에 대한 우선 순위화된 목록이며, 제품 책임자와 스크럼 팀이 이해할 수 있는 수준의 개요와 설명을 포함하며, 무엇을 개발할지 어떤 순서로 개발하느냐에 초점을 맞춘 공통의 이해를 보여준다.
 제품 백로그는 스크럼 프레임워크의 중심에 있는 가시적인 산출물이며 SW개발의 최종 제품 산출물은 이 백로그를 근거로 실현된 기능이라 볼 수 있다. 
 
-![](/assets/images/agile-product-backlog-def.png)
+![](/assets/images/agile/agile-product-backlog-def.png)
 
 <br>
 ## <span class="mg_title_1">제품 백로그 도출 
@@ -50,10 +50,10 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
 자, 이제 제품 백로그는 작성해보자. 다음과 같이 간단하게 목록 형태로 작성을 해도 되고 JIRA를 사용하여 일감으로 등록을 하게 되면 효율적으로 백로그를 관리할 수 있을 것이다. 
 
 **(예시1) 엑셀에서 백로그 작성**
-![](/assets/images/agile-backlog-register1.png)
+![](/assets/images/agile/agile-backlog-register1.png)
 
 **(예시2) JIRA에서 백로그 작성**
-![](/assets/images/agile-backlog-regiter2.png)
+![](/assets/images/agile/agile-backlog-regiter2.png)
 
 
 <br>
@@ -69,11 +69,11 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
 ### 【 사용자 스토리 작성 방법 】 
 론 제프리스는 사용자 스토리를 간단하고 효과적으로 작성할 수 있는 다음과 같이 방법을 제안하였다.
 
-![](/assets/images/agile-userstory-card1.png)
+![](/assets/images/agile/agile-userstory-card1.png)
 
 시작 시점에서 위와 같이 단순하게 작성된 사용자 스토리는 점차적으로 구체화되어야 한다. 사용자 스토리가 구체화되면서 해당 내용은 사용자 스토리의 목표 기능을 테스트하거나 해당 기능이 완료되었음을 알 수 있는 알 수 있는 조건-인수조건 또는 DoD(Definition Of Done)라 함-이 포함되어야 한다.
 
-![](/assets/images/agile-userstory-card2.png)
+![](/assets/images/agile/agile-userstory-card2.png)
 
 사용자 스토리가 하나의 스프린트 내에 완료할 수 없을 만큼 크다면, 좀 더 작은 크기로 여러 개의 사용자 스토리로 분할하는 것이 좋다. 
 
