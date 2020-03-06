@@ -1,0 +1,88 @@
+Judy:
+  name: Judy
+  bio: "Hello"
+  avatar: "/assets/profiles/juyoung-profile.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "dongryhihi@kakao.com"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Juyounglee95"
+scant:
+  name: scant
+  bio: "Be kindly"
+  avatar: "/assets/profiles/scant-profile.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "scant@sk.com"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/scant10"
+haesiku:
+  name: haesiku
+  bio: "Be happy"
+  avatar: "/assets/profiles/haesiku-profile.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "haesiku@gmail.com"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/haesiku"
+jaehoon1104:
+  name: jaehoon1104
+  bio: "Nice to meet you!"
+  avatar: "/assets/profiles/jaehoon1104-profile.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "sanjuk1104@gmail.com"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jaehoon1104"
+magaretjo:
+  name: magaretjo
+  bio: "Make your life grateful~"
+  avatar: "/assets/profiles/magaretjo-profile.gif"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "magaret@sk.com"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/magaretjo"
+seonghun:
+  name: seonghun
+  bio: "Hello, World~!"
+  avatar: "/assets/profiles/hun-profile.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "winhsh91@naver.com"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/SeonghunHeo"
+rightagile:
+  name: rightagile
+  bio: "Integral Life Practice"
+  avatar: "/assets/profiles/right-profile.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "rightagile@gmail.com"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rightagile"
+SungryongJun:
+  name: SungryongJun
+  bio: "Not by might, nor by power, but by My spirit"
+  avatar: "/assets/profiles/Sungryong-profile.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "s940616@gmail.com"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/SungryongJun"
