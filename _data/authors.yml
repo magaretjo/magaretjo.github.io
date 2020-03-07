@@ -49,7 +49,7 @@ magaretjo:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "magaret@sk.com"
+      url: "mailto:magaret@sk.com"
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/magaretjo"
