@@ -29,7 +29,7 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
 
 ### 스크럼 팀의 특징
 ![](/assets/images/agile/agile-scrum-team-def.png)
-【 스크럼 팀 구성원의 역할 】 (표2-4)
+
 
 ### 구성원의 역할
 ![](/assets/images/agile/agile-scrum-roles-def.png)
@@ -51,7 +51,9 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
 ### 스크럼 프로젝트 조직도 예시
 ![](/assets/images/agile/agile-scrum-org-example.png)
 
-※ Scrum Of Scrums(SOS)의 구성에 대해서는 품질/소통 Planning 섹션에서 다룬다. 
+
+### Scrum Of Scrums(SOS)의 구성
+내용 추가 필요
 
 ***
 

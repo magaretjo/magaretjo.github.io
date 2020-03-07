@@ -109,6 +109,7 @@
   @include notice($memo-color);
   line-height: 1.5;
   border: 1px dotted mix(#000, $memo-color, 50%);
+  box-shadow: 0 0 0;
 }
 
 /* Tabe of Contents -- magaretjo add */
@@ -117,6 +118,7 @@
   @include notice($toc-color);
   line-height: 1;
   border: 1px solid $dark-gray;
+  box-shadow: 0 0 0;
 }
 
 /* notice--blockquotes */

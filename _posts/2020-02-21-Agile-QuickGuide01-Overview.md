@@ -43,7 +43,7 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
   - [Overview](/agile-quickguide/Agile-QuickGuide01-Overview/) 
   - 애자일 프로젝트의 시작
     - [QuickGuide 02](/agile-quickguide/Agile-QuickGuide02-프로젝트수행준비/) > 프로젝트 수행 준비
-    - [QuickGuide 03](/agile-quickguide/Agile-QuickGuide03-스크림팀구성/) > 스크림팀 구성
+    - [QuickGuide 03](/agile-quickguide/Agile-QuickGuide03-스크럼팀구성/) > 스크럼팀 구성
     - [QuickGuide 04](/agile-quickguide/Agile-QuickGuide04-제품백로그도출/) > 제품백로그 도출
     - [QuickGuide 05](/agile-quickguide/Agile-QuickGuide05-릴리즈계획/) >  릴리즈계획 수립
     - [QuickGuide 06](/agile-quickguide/Agile-QuickGuide06-소통&품질/) > 의사소통/품질 계획
@@ -127,7 +127,7 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
 
 당사에서는 스크럼 프레임웍을 애자일 프로젝트 방법론으로 채택하였으며, CNAPS 2.0에서 관련 프로세스를 정규화하여 상세한 가이드를 마련해 놓았다.
 
-따라서, 당사에서 애자일 방법론은 "스크럼"을 지칭하며 앞으로 나오는 퀵가이드 연재물에서도 애자일로 표현된 문구는 스크럼 방식의 애자일을 의미하고 있음을 주지하기 바란다.  
+따라서, <u>당사에서 애자일 방법론은 <span style="mg_focus_1">스크럼</span>을 지칭하며 앞으로 나오는 퀵가이드 연재물에서도 애자일로 표현된 문구는 스크럼 방식의 애자일을 의미</u>하고 있음을 주지하기 바란다.  
 
 스크럼은 1986년 타케우지 & 노나카 교수가 HBR에 기고한 “The New Product Development Game” 에서 그 실천법이 처음 소개되었는데  추정 및 조정 기반의 경험적 관리기법의 대표적인 형태로 여겨졌다. 이후 1995년에 켄 슈와버와 제프 서덜랜드가 이 방법을 소프트웨어 개발에 소개하면서 스크럼이라 명명하며 핵심적인 규칙을 정립하게 되었다.  
 
