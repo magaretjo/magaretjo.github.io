@@ -125,16 +125,9 @@ blockquote {
     }
   }
 
-  ul {
-    margin-left : 10px;
-
-    li:last-child {
-      &:after {
-        content: "\n";
-      }
-    }
+  li {
+    margin : 0 0 0 10px;
   }
-
   
 }
 
