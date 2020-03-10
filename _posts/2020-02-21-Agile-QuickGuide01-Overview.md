@@ -35,7 +35,7 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
 스크럼 가이드북은 스크럼 실천을 위해 가장 핵심적이며 필요한 내용을 다루고 있는 기본적인 안내서이므로, 스크럼을 올바르게 적용하고 싶다면 반드시 읽어보기를 권고한다.
 
 전체 가이드는 overview로부터 시작해 다음과 같은 순서로 Posting할 계획이다.  
-<br>
+
 
 - **Agile 퀵가이드 연재순서 :**
   - [Overview](/agile-quickguide/Agile-QuickGuide01-Overview/) 
@@ -51,8 +51,8 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
   - 애자일 프로젝트 실행
     - TBD
 {: .notice--toc}
-<!--Magaretjo Custom-->
-<br><br> 
+<!--Magaretjo Custom //-->
+<br>
  
 ## <span class="mg_title_1">애자일 개요</span>
 
@@ -102,7 +102,7 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
   - 따라서 애자일 프로젝트에 참여하는 구성원은 세부 시행 규칙과 방법보다는 선언문에 담겨 있는 애자일 가치 추구에 동참하려는 의지가 필요하다.
   - 프로젝트 오리엔테이션 또는 스크럼 미팅에서 프로젝트 구성원과 함께 애자일 선언문과 원칙에 대해서 낭독하고 공유할 것을 추천한다.
 {: .notice--memo} 
-<br><br>
+<br>
 
 ## <span class="mg_title_1">애자일 방법론과 스크럼
 
