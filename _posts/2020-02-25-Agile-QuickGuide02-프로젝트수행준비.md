@@ -1,7 +1,7 @@
 ---
 title: "Agile 프로젝트 Starting 퀵가이드(2)-프로젝트 수행 준비"
 last_modified_at: 2020-02-26T16:00:00-30:00
-classes: wide
+classes: single
 categories:
   - agile-quickguide
   # 카테고리는 반드시 아래 예시 중에 골라 입력해주세요.
@@ -9,8 +9,8 @@ categories:
   # ex)Cloud, AI, Big Data, Culture, Spring, MSA
 tags:
   - agile
-  - scrum
-  - project
+  - scrum 
+  - agile project
 #	태그는 자유롭게 개수 제한 없이 입력할 수 있습니다. 아래는 예시입니다.
 # ex)Cloud: k8s, Docker, CloudZ, Azure, AWS, Google Cloud
 #	  AI: Abril, Tensor Flow
