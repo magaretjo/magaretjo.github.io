@@ -1,23 +1,15 @@
 ---
 title: "Agile 프로젝트 Starting 퀵가이드(3)-스크럼팀 구성"
 last_modified_at: 2020-02-21T16:00:00-30:00
-classes: wide
+classes: single
 categories:
   - agile-quickguide
-  # 카테고리는 반드시 아래 예시 중에 골라 입력해주세요.
-  # 예시에 원하는 카테고리가 없을 시, 예시에 추가해주시고 이 문서를 commit&push 해주세요.
-  # ex)Cloud, AI, Big Data, Culture, Spring, MSA
 tags:
   - agile
   - scrum
-  - project
-  - organization
-#	태그는 자유롭게 개수 제한 없이 입력할 수 있습니다. 아래는 예시입니다.
-# ex)Cloud: k8s, Docker, CloudZ, Azure, AWS, Google Cloud
-#	  AI: Abril, Tensor Flow
-#   Big Data: accuinsight+, QUTA
+  - scrum team
 author: magaretjo 
-excerpt: "스크럼 프로젝트의 조직 구성은 어떻게 만드나 ?"
+excerpt: "스크럼 프로젝트의 조직은 어떤 특징이 있을까요?"
 toc: true #(toc를 사용하지 않을 경우에만 false로 변경)
 toc_sticky: true #(toc를 사용하지 않을 경우에만 false로 변경)
 toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)

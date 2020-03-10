@@ -1,24 +1,16 @@
 ---
 title: "Agile 프로젝트 Starting 퀵가이드(6)-릴리즈 계획 수립"
 last_modified_at: 2020-03-09T16:00:00-30:00
-classes: wide
+classes: single
 categories:
   - agile-quickguide
-  # 카테고리는 반드시 아래 예시 중에 골라 입력해주세요.
-  # 예시에 원하는 카테고리가 없을 시, 예시에 추가해주시고 이 문서를 commit&push 해주세요.
-  # ex)Cloud, AI, Big Data, Culture, Spring, MSA
 tags:
   - agile
   - scrum
-  - project
-  - release
-  - milestone
-#	태그는 자유롭게 개수 제한 없이 입력할 수 있습니다. 아래는 예시입니다.
-# ex)Cloud: k8s, Docker, CloudZ, Azure, AWS, Google Cloud
-#	  AI: Abril, Tensor Flow
-#   Big Data: accuinsight+, QUTA
+  - release plan
+  - sprint
 author: magaretjo
-excerpt: "릴리즈 계획은 무엇이며, 무엇을 릴리즈할 것인가?"
+excerpt: "릴리즈 계획은 어떤 기준으로 수립할까요?"
 toc: true #(toc를 사용하지 않을 경우에만 false로 변경)
 toc_sticky: true #(toc를 사용하지 않을 경우에만 false로 변경)
 toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)

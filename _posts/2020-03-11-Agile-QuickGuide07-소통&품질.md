@@ -1,17 +1,16 @@
 ---
 title: "Agile 프로젝트 Starting 퀵가이드(7)-의사소통 및 품질관리 계획 수립"
 last_modified_at: 2020-03-09T16:00:00-30:00
-classes: wide
+classes: single
 categories:
   - agile-quickguide
 tags:
-  - agile
-  - scrum
-  - project
   - communication
-  - quality
+  - scrum meeting
+  - quality management
+  - risk/issue management
 author: magaretjo
-excerpt: "Agile 프로젝트에서 의사소통과 품질 계획은 어떤 식으로 수립할까요"
+excerpt: "Agile 프로젝트에서 의사소통과 품질관리는 무엇이 다를까요?"
 toc: true #(toc를 사용하지 않을 경우에만 false로 변경)
 toc_sticky: true #(toc를 사용하지 않을 경우에만 false로 변경)
 toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)

@@ -1,7 +1,7 @@
 ---
 title: "Agile 프로젝트 Starting 퀵가이드(4)-제품백로그 도출"
 last_modified_at: 2020-03-02T16:00:00-30:00
-classes: wide
+classes: single
 categories:
   - agile-quickguide
   # 카테고리는 반드시 아래 예시 중에 골라 입력해주세요.
@@ -10,16 +10,15 @@ categories:
 tags:
   - agile
   - scrum
-  - project
-  - product
-  - backlog
+  - agile project
+  - product backlog
   - userstory
 #	태그는 자유롭게 개수 제한 없이 입력할 수 있습니다. 아래는 예시입니다.
 # ex)Cloud: k8s, Docker, CloudZ, Azure, AWS, Google Cloud
 #	  AI: Abril, Tensor Flow
 #   Big Data: accuinsight+, QUTA
 author: magaretjo
-excerpt: "제품 백로그란 무엇이며, 왜 필요한 것인가?"
+excerpt: "제품 백로그란 무엇이며, 어떻게 작성 및 사용되나요?"
 toc: true #(toc를 사용하지 않을 경우에만 false로 변경)
 toc_sticky: true #(toc를 사용하지 않을 경우에만 false로 변경)
 toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)

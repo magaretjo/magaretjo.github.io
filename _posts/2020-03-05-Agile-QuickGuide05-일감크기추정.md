@@ -1,17 +1,16 @@
 ---
 title: "Agile 프로젝트 Starting 퀵가이드(5)-일감크기 추정"
 last_modified_at: 2020-03-06T16:00:00-30:00
-classes: wide
+classes: single
 categories:
   - agile-quickguide
 tags:
   - agile
   - scrum
-  - project
-  - backlog
-  - estimation
+  - product backlog
+  - story point estimation
 author: magaretjo
-excerpt: "일감크기란 무엇이며, 추정이 필요한 이유는 무엇일까요?"
+excerpt: "일감크기의 의미는 무엇이며, 추정은 어떻게 할까요?"
 toc: true #(toc를 사용하지 않을 경우에만 false로 변경)
 toc_sticky: true #(toc를 사용하지 않을 경우에만 false로 변경)
 toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
