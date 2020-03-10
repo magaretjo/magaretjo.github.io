@@ -1,6 +1,6 @@
 ---
-title: "Agile 프로젝트 Starting 퀵가이드(7)-의사소통 및 품질관리 계획 수립"
-last_modified_at: 2020-03-09T16:00:00-30:00
+title: "Agile 프로젝트 Starting 퀵가이드(7)-스크럼 환경 구성"
+last_modified_at: 2020-03-06T16:00:00-30:00
 classes: wide
 categories:
   - agile-quickguide
@@ -81,8 +81,8 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
 
 <div class="mg_subject_1"><b>Related Posts : </b></div> 
 <div class="mg_content_1">
-<a href="/agile-quickguide/Agile-QuickGuide06-릴리즈계획/">QuickGuide 06</a> > 릴리즈 계획 수립 <br>
-<a href="/agile-quickguide/Agile-QuickGuide07-스크럼환경구성/">QuickGuide 08</a> > 스크럼환경 구성 
+<a href="/agile-quickguide/Agile-QuickGuide05-릴리즈계획/">QuickGuide 05</a> > 릴리즈 계획 수립 <br>
+<a href="/agile-quickguide/Agile-QuickGuide07-스크럼환경구성/">QuickGuide 07</a> > 스크럼환경 구성 
 </div>
 <br>
 

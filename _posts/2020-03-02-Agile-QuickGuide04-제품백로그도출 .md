@@ -116,7 +116,7 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
 <div class="mg_subject_1"><b>Related Posts : </b></div> 
 <div class="mg_content_1">
 <a href="/agile-quickguide/Agile-QuickGuide03-스크럼팀구성/">QuickGuide 03</a> > 스크럼팀 구성 <br>
-<a href="/agile-quickguide/Agile-QuickGuide05-릴리즈계획/">QuickGuide 05</a> > 릴리즈 계획 수립 
+<a href="/agile-quickguide/Agile-QuickGuide05-일감크기추정/">QuickGuide 05</a> > 일감 크기 추정 
 </div>
 <br>
 

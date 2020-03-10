@@ -45,8 +45,10 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
     - [QuickGuide 02](/agile-quickguide/Agile-QuickGuide02-프로젝트수행준비/) > 프로젝트 수행 준비
     - [QuickGuide 03](/agile-quickguide/Agile-QuickGuide03-스크럼팀구성/) > 스크럼팀 구성
     - [QuickGuide 04](/agile-quickguide/Agile-QuickGuide04-제품백로그도출/) > 제품백로그 도출
-    - [QuickGuide 05](/agile-quickguide/Agile-QuickGuide05-릴리즈계획/) >  릴리즈계획 수립
-    - [QuickGuide 06](/agile-quickguide/Agile-QuickGuide06-소통&품질/) > 의사소통/품질 계획
+    - [QuickGuide 05](/agile-quickguide/Agile-QuickGuide05-일감크기추정/) >  일감 크기 추정
+    - [QuickGuide 06](/agile-quickguide/Agile-QuickGuide06-릴리즈계획/) >  릴리즈계획 수립
+    - [QuickGuide 07](/agile-quickguide/Agile-QuickGuide07-소통&품질/) > 의사소통/품질 계획
+    - [QuickGuide 08](/agile-quickguide/Agile-QuickGuide08-스크럼환경/) > 스크럼 환경 구성
     - 스크럼환경 구성
   - 애자일 프로젝트 실행
     - TBD
