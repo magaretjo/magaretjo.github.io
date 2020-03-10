@@ -1,6 +1,6 @@
 ---
-title: "Agile 프로젝트 퀵가이드(6)-의사소통 및 품질관리 계획 수립"
-last_modified_at: 2020-03-06T16:00:00-30:00
+title: "Agile 프로젝트 Starting 퀵가이드(7)-의사소통 및 품질관리 계획 수립"
+last_modified_at: 2020-03-09T16:00:00-30:00
 classes: wide
 categories:
   - agile-quickguide

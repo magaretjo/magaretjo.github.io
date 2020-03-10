@@ -1,5 +1,5 @@
 ---
-title: "Agile 프로젝트 퀵가이드(4)-제품백로그 도출"
+title: "Agile 프로젝트 Starting 퀵가이드(4)-제품백로그 도출"
 last_modified_at: 2020-03-02T16:00:00-30:00
 classes: wide
 categories:

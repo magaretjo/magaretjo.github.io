@@ -1,5 +1,5 @@
 ---
-title: "Agile 프로젝트 퀵가이드(3)-스크럼팀 구성"
+title: "Agile 프로젝트 Starting 퀵가이드(3)-스크럼팀 구성"
 last_modified_at: 2020-02-21T16:00:00-30:00
 classes: wide
 categories:

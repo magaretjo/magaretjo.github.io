@@ -1,6 +1,6 @@
 ---
-title: "Agile 프로젝트 퀵가이드(5)-릴리즈 계획 수립"
-last_modified_at: 2020-03-05T16:00:00-30:00
+title: "Agile 프로젝트 Starting 퀵가이드(6)-릴리즈 계획 수립"
+last_modified_at: 2020-03-09T16:00:00-30:00
 classes: wide
 categories:
   - agile-quickguide

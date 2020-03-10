@@ -1,5 +1,5 @@
 ---
-title: "Agile 프로젝트 퀵가이드(2)-프로젝트 수행 준비"
+title: "Agile 프로젝트 Starting 퀵가이드(2)-프로젝트 수행 준비"
 last_modified_at: 2020-02-26T16:00:00-30:00
 classes: wide
 categories:
