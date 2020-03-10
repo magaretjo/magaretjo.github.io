@@ -44,8 +44,8 @@ MoSCoW Rule에 따라 백로그 항목별로 우선순위를 부여하여, 제�
 **제품 로드맵 작성** 
 
 제품 우선 순위에 따라 개발 스프린트에 대략적으로 할당하여 전체 로드맵을 수립한다.
-![](/assets/images/aigle-product-roadmap.png) 
-
+![](/assets/images/agile/agile-product-roadmap.png) 
+<br><br>
 
 ##	<span style="mg_title_1">스프린트 정의와 매핑 
 스프린트는 스크럼의 핵심으로, 2~4주의 정해진 시간 동안 계획한 기능들을 “완료”하여 사용할 수 있고 출시 가능한 “제품 증분”으로 만들어 내는 Cycle을 의미한다.
@@ -66,8 +66,10 @@ MoSCoW Rule에 따라 백로그 항목별로 우선순위를 부여하여, 제�
   -	위와 같은 상황이 아니더라도 우리나라의 SI 프로젝트 여건상 보통 통합테스트와 인수테스트를 끝내고 이행하는 게 바람직할 것이다.
 {: .notice--memo}
 
-<br>
-릴리즈 계획이 수립되고 나면 다음과 같이 프로젝트 전체 일정표를 작성하여 프로젝트 관계자와 공유하도록 하자.
+<br><br>
+
+##	<span style="mg_title_1">마일스톤 작성
+릴리즈 계획이 수립되고 나면 다음과 같은 일정표를 작성하여 스크럼 팀원 및 프로젝트 이해관계자와 공유하도록 하자
 ![](/assets/images/agile/agile-release-plan.png){: width="900"}
 
 

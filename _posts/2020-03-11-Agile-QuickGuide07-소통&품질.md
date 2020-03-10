@@ -4,21 +4,14 @@ last_modified_at: 2020-03-09T16:00:00-30:00
 classes: wide
 categories:
   - agile-quickguide
-  # 카테고리는 반드시 아래 예시 중에 골라 입력해주세요.
-  # 예시에 원하는 카테고리가 없을 시, 예시에 추가해주시고 이 문서를 commit&push 해주세요.
-  # ex)Cloud, AI, Big Data, Culture, Spring, MSA
 tags:
   - agile
   - scrum
   - project
-  - release
-  - milestone
-#	태그는 자유롭게 개수 제한 없이 입력할 수 있습니다. 아래는 예시입니다.
-# ex)Cloud: k8s, Docker, CloudZ, Azure, AWS, Google Cloud
-#	  AI: Abril, Tensor Flow
-#   Big Data: accuinsight+, QUTA
+  - communication
+  - quality
 author: magaretjo
-excerpt: "릴리즈 계획은 무엇이며, 무엇을 릴리즈할 것인가?"
+excerpt: "Agile 프로젝트에서 의사소통과 품질 계획은 어떤 식으로 수립할까요"
 toc: true #(toc를 사용하지 않을 경우에만 false로 변경)
 toc_sticky: true #(toc를 사용하지 않을 경우에만 false로 변경)
 toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
@@ -35,6 +28,7 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
 
 - [ 번다운 챠트 예시 ]
 ![](/assets/images/agile/agile-burndown-chart.png){: width="800"}
+<br>
 
 번다운 차트에서 잔여 일감과 함께 관리해야 할 항목은 전체 일감의 양이다. 초반에 도출된 전체 백로그의 일감 양은 시간이 지나감에 따라 증가될 소지가 높다. 팀의 최고 속도에도 불구하고 잔여 일감이 줄어들지 않는다면, 전체 일감이 늘어났을 가능성이 크다. 그리고 스프린트마다 팀이 전력질주를 하더라도 잔여 일감 목표치를 달성하지 못하는 실패를 경험하게 된다. 이 경우 잔여 목표를 맞추기 위해 초과 근무 등이 발생하며 이러한 현상이 반복된다면 팀은 번아웃되어 버릴 것이다. 
 
@@ -63,7 +57,7 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
   -	스크럼 리뷰 회의시 번다운 차트를 보고하여 전체 진행상황을 제품책임자 및 참여자에게 모두 공유하는 것이 좋다.
   -	단, 번다운 차트는 상시 관리되는 것이 좋다. 팀원들이 JIRA와 같은 도구를 통하여 Daily로 일감 상태를 업데이트하고 있다면 번다운 차트 또한 매일 업데이트가 가능하다. 만약 프로젝트가 계획대로 가고 있지 않다면 SoS 미팅에서 번다운 차트를 미리 공유하여 리뷰 미팅시 논란이 되지 않도록 하게 하자..
 {: .notice--memo} 
-
+<br>
 
 현재 포스팅은 스크럼 프로젝트 시작 단계에서 해야 할 의사소통 계획 부분을 다루고 있기 때문에 실제 각 미팅에서 의사소통을 어떻게 하는지에 대한 세부적인 내용은 실행 편에서 다루고 이정도에서 마치겠다.
 <br><br>
