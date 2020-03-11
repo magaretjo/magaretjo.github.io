@@ -38,8 +38,8 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
 
 
 - **Agile 퀵가이드 연재순서 :**
-  - [Overview](/agile-quickguide/Agile-QuickGuide01-Overview/) 
-  - 애자일 프로젝트의 시작
+  - [QuickGuide 01](/agile-quickguide/Agile-QuickGuide01-Overview/) Overview
+  - *애자일 프로젝트의 시작*
     - [QuickGuide 02](/agile-quickguide/Agile-QuickGuide02-프로젝트수행준비/) > 프로젝트 수행 준비
     - [QuickGuide 03](/agile-quickguide/Agile-QuickGuide03-스크럼팀구성/) > 스크럼팀 구성
     - [QuickGuide 04](/agile-quickguide/Agile-QuickGuide04-제품백로그도출/) > 제품백로그 도출
@@ -47,8 +47,7 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
     - [QuickGuide 06](/agile-quickguide/Agile-QuickGuide06-릴리즈계획/) >  릴리즈계획 수립
     - [QuickGuide 07](/agile-quickguide/Agile-QuickGuide07-소통&품질/) > 의사소통/품질 계획
     - [QuickGuide 08](/agile-quickguide/Agile-QuickGuide08-스크럼환경/) > 스크럼 환경 구성
-    - 스크럼환경 구성
-  - 애자일 프로젝트 실행
+  - *애자일 프로젝트 실행*
     - TBD
 {: .notice--toc}
 <!--Magaretjo Custom //-->
