@@ -62,6 +62,25 @@
   a + a {
     opacity: 0.5;
   }
+
+  /* links */
+
+  a {
+    text-decoration: none;
+    color : $title-link-color;
+    &:focus {
+      @extend %tab-focus;
+    }
+
+    &:visited {
+      color: $title-link-color-visited;
+    }
+
+    &:hover {
+      color: $title-link-color-hover;
+      outline: 0;
+    }
+  }
 }
 
 /* remove border*/
