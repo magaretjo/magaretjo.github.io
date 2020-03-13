@@ -237,7 +237,8 @@ Markdown용 표를 만들어주는 사이트! -> [http://www.tablesgenerator.com
 | 컬럼1   | 컬럼2   | 컬럼3   |
 | 컬럼4   | 컬럼5   | 컬럼6   |
 |=====
-| Foot1   | Foot2   | Foot3 |
+| Foot1   | •	Commitment (전념,확약) : 약속한 것을 확실이 이행/실현하는 것<br>•	Focus (집중) : 확약한 것의 실천을 위해 집중/최선을 다하는 것<br>•	Openness (개방성) : 어떤 것이 자신에게 불리해도 숨기지 않는 것<br>•	Respect (존중) : 자신과 다른 사람의 의견을 존중하는 것<br>•	Courage (용기) : 실패나 거부에 대한 두려움 없이 의사를 개진할 수 있도록 함
+   | Foot3 |
 {: rules="groups"}
 
 ## 각주
