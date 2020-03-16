@@ -124,8 +124,8 @@ $navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
 
 // magaretjo-added
 $title-link-color: black !default;
-$title-link-color-hover: mix(#fff, $title-link-color, 50%) !default;
-$title-link-color-visited: mix(#fff, $title-link-color, 70%) !default;
+$title-link-color-hover: $lastfm-color:
+$title-link-color-visited: mix(#fff, $title-link-color, 50%) !default;
 
 /* syntax highlighting (base16) */
 $base00: #263238 !default;
