@@ -38,32 +38,34 @@ th {
   vertical-align: middle;
 }
 
-.container{
+/* magaretjo customed table */
+$tab-border-color: mix(#000, $border-color, 25%);
+
+.mj_table {
   display: flex;
   flex-direction: column;
+  border: 1px solid 
 }
-header{
-  border-bottom:1px solid gray;
-  padding-left:20px;
-}
-footer{
-  border-top:1px solid gray;
-  padding:20px;
+
+.mj_theader {
+  font-weight: bold;
   text-align: center;
+  background-color: $border-color;
+  border-bottom: 1px solid $tab-border-color;
 }
-.content{
+
+.mj_tcontent{
   display:flex;
+  padding:10px;
 }
-.content nav{
-  border-right:1px solid gray;
+
+.mj_lcol{
+  border-right:1px solid $tab-border-color;
 }
-.content aside{
-  border-left:1px solid gray;    
+.mj_rcol{
+  border-left:1px solid $tab-border-color;    
 }
-nav, aside{
+.mj_fix {
   flex-basis: 150px;
   flex-shrink: 0;
-}
-main{
-  padding:10px;
 }
