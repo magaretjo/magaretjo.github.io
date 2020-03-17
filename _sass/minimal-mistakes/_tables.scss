@@ -39,9 +39,14 @@ th {
 }
 
 /* magaretjo customed table */
+.mj_table td {
+  padding-left: 20px;
+  text-indent: -12px; 
+}
+
 $tab-border-color: mix(#000, $border-color, 25%);
 
-.mj_table {
+.mj_container {
   display: flex;
   flex-direction: column;
   border: 1px solid 

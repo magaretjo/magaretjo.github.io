@@ -1,7 +1,7 @@
 ---
 title: "Agile 프로젝트 Starting 퀵가이드(8)-스크럼 환경 구성"
 last_modified_at: 2020-03-06T16:00:00-30:00
-classes: wide
+classes: single
 categories:
   - agile-quickguide
   # 카테고리는 반드시 아래 예시 중에 골라 입력해주세요.
@@ -28,21 +28,23 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
 
 ### JIRA시스템 용어
 
-<table>
-<theader></theader>
+<table class="mj_table">
+<thead>
+  <tr><th>용어</th><th>설명</th>
+  </tr>
+</thead>
 <tbody>
   <tr><td>•	Project</td>
       <td>- 일감(Issue)를 관리하는 최상위 카테고리</td>
   </tr>
   <tr><td>•	일감(Issue)</td>
-      <td>- JIRA에서는 Project의 백로그 관리를 위한 스토리(Story), 새로운 기능, Bug, 
-  개선사항 등 다양한 형태의 작업들을 통틀어 일감 또는 Issue라고 호칭한다. <br>
-  ※	일반적으로 말하는 Risk/Issue의 그 Issue와는 다르며, JIRA에서는 제품 백로그 Issue를 말하는 것이다.
+      <td><p>- JIRA에서는 Project의 백로그 관리를 위한 스토리(Story), 새로운 기능, Bug, 개선사항 등 다양한 형태의 작업들을 통틀어 일감 또는 Issue라고 호칭한다. </p>
+          <p>- 일반적으로 말하는 Risk/Issue의 그 Issue와는 다르며, JIRA에서는 제품 백로그 Issue를 말하는 것이다.</p>
   </td>
   </tr>
   <tr><td>•	상태(Status)</td>
-      <td>- 일감(Issue)의 상태를 표시하는 기능
-  -	보통 열림 / 진행중 / 해결 / 완료 등의 상태를 가지며, 다양한 상태값으로 커스터마이징이 가능하다.
+      <td><p>- 일감(Issue)의 상태를 표시하는 기능</p>
+  <p>-	보통 열림 / 진행중 / 해결 / 완료 등의 상태를 가지며, 다양한 상태값으로 커스터마이징이 가능하다.</p>
   </td>
   </tr>
   <tr><td>•	흐름(Workflow)</td>
@@ -52,8 +54,8 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
       <td>- 등록된 일감(Issue)를 조건에 맞게 검색하거나 데이터셋처럼 가져오는 기능</td>
   </tr>
   <tr><td>•	보드(Borad)</td>
-      <td>- 스크럼 or 칸반 방식에 맞게 일감의 상태 및 흐름을 한 눈에 보고, 일감 상태를 Update할 수 있는 작업용 상황판 
-  -	스크럼 보드, 칸반 보드 등이 있다.
+      <td><p>- 스크럼 or 칸반 방식에 맞게 일감의 상태 및 흐름을 한 눈에 보고, 일감 상태를 Update할 수 있는 작업용</p> 상황판 
+  <p>- 스크럼 보드, 칸반 보드 등이 있다.</p>
   </td>
   </tr>
   <tr><td>•	대시보드(Dashboard)</td>

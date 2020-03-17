@@ -1,7 +1,7 @@
 ---
 title: "Agile 프로젝트 Starting 퀵가이드(8)-스크럼 환경 구성"
 last_modified_at: 2020-03-06T16:00:00-30:00
-classes: wide
+classes: single
 categories:
   - agile-quickguide
   # 카테고리는 반드시 아래 예시 중에 골라 입력해주세요.
