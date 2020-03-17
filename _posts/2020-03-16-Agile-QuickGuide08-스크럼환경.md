@@ -86,28 +86,28 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
 </div>
 <br>
 
-    <div class="container">
-        <header>
-            <h1>생활코딩</h1>
-        </header>
-        <section class="content">
-            <nav>
-                <ul>
-                    <li>html</li>
-                    <li>css</li>
-                    <li>javascript</li>
-                </ul>
-            </nav>
-            <main>
-               Eveniet doloremque animi maxime aliquid rem fugit dolor dignissimos! Quo, ut quod ab.
-            </main>
-            <aside>
-                AD
-            </aside>
-        </section>
-        <footer>
-            <a href="https://opentutorials.org/course/1">홈페이지</a>
-        </footer>
+<div class="container">
+    <div>
+        <h1>생활코딩</h1>
     </div>
+    <section class="content">
+        <span>
+            <ul>
+                <li>html</li>
+                <li>css</li>
+                <li>javascript</li>
+            </ul>
+        </span>
+        <span>
+            Eveniet doloremque animi maxime aliquid rem fugit dolor dignissimos! Quo, ut quod ab.
+        </span>
+        <span>
+            AD
+        </span>
+    </section>
+    <div>
+        <a href="https://opentutorials.org/course/1">홈페이지</a>
+    </div>
+</div>
 
 < EOF >
