@@ -91,17 +91,17 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
         <h1>생활코딩</h1>
     </div>
     <section class="content">
-        <span>
+        <span class="mg_nav">
             <ul>
                 <li>html</li>
                 <li>css</li>
                 <li>javascript</li>
             </ul>
         </span>
-        <span>
+        <span class="mg_main">
             Eveniet doloremque animi maxime aliquid rem fugit dolor dignissimos! Quo, ut quod ab.
         </span>
-        <span>
+        <span class="mg_etc">
             AD
         </span>
     </section>
