@@ -1,5 +1,5 @@
 ---
-title: "Agile 프로젝트 Starting 퀵가이드(7)-스크럼 환경 구성"
+title: "Agile 프로젝트 Starting 퀵가이드(8)-스크럼 환경 구성"
 last_modified_at: 2020-03-06T16:00:00-30:00
 classes: wide
 categories:
@@ -29,15 +29,16 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
 ### JIRA시스템 용어
 
 <table>
-<row><col>	Project</col>
-</row>
-<row><col>	일감(Issue)</col>
-</row>
-<row><col>	상태(Status)</col>
-</row>
-<row><col>	흐름(Workflow)</col>
-</row>
+<tr><td>•	Project</td>
+</tr>
+<tr><td>•	일감(Issue)</td>
+</tr>
+<tr><td>•	상태(Status)</td>
+</tr>
+<tr><td>•	흐름(Workflow)</td>
+</tr>
 </table>
+
 
 ### JIRA시스템의 일감구조
 
