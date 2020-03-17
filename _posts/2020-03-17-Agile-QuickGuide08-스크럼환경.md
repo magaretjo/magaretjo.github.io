@@ -95,20 +95,20 @@ Atlassian의 지라(JIRA)는 애자일 프로젝트에서 가장 선호하는 �
 위와 같이 스프린트별 일감 현황을 공유할 수 있는 화면을 “스크럼 보드”라고 하는데, 위와 같은 보드 화면을 갖기 위해서 대략 다음의 순서에 따라 작업을 하도록 한다.
 
 -	JIRA 기본 이해하기
-  1.	[JIRA시스템 용어]
-  2.	[JIRA시스템의 일감구조]
-  3.	[JIRA 일감 유형]
+  1.	[JIRA시스템 용어](/agile-quickguide/Agile-QuickGuide-Appendix-JIRA/#jira시스템-용어)
+  2.	[JIRA시스템의 일감구조](/agile-quickguide/Agile-QuickGuide-Appendix-JIRA/#jira시스템의-일감구조)
+  3.	[JIRA 일감 유형](/agile-quickguide/Agile-QuickGuide-Appendix-JIRA/#jira-일감-유형)
 -	스크럼보드 만들기
-  1.	[워크플로우(Workflow) 정의]
-  2.	[보드 만들기]
+  1.	[워크플로우 정의](/agile-quickguide/Agile-QuickGuide-Appendix-JIRA/#워크플로우-정의)
+  2.	[보드 만들기](/agile-quickguide/Agile-QuickGuide-Appendix-JIRA/#보드-만들기)
 -	JIRA 프로젝트의 일감 정의하기
-  1.	[프로젝트 “구성요소” 정의]
-  2.	[프로젝트 “일감” 등록 (에픽, 작업, 이야기 및 부작업)]
-  3.	[프로젝트 “스프린트” 생성] 
-  4.	[각 스프린트별 일감 할당]
+  1.	[프로젝트 “구성요소” 정의](/agile-quickguide/Agile-QuickGuide-Appendix-JIRA/#프로젝트-구성요소-정의)
+  2.	[프로젝트 “일감” 등록](/agile-quickguide/Agile-QuickGuide-Appendix-JIRA/#프로젝트-일감-등록)
+  3.	[프로젝트 “스프린트" 생성](/agile-quickguide/Agile-QuickGuide-Appendix-JIRA/#스프린트-생성) 
+  4.	[스프린트별 일감 할당](/agile-quickguide/Agile-QuickGuide-Appendix-JIRA/#스프린트별-일감-할당)
 -	대시보드 만들기 
-  1.	[데이터 필터 정의]
-  2.	[가젯 구성]
+  1.	[데이터 필터 정의](/agile-quickguide/Agile-QuickGuide-Appendix-JIRA/#데이터-필터-정의)
+  2.	[가젯 구성](/agile-quickguide/Agile-QuickGuide-Appendix-JIRA/#가젯-구성)
 
 
 ***
