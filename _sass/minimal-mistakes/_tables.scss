@@ -42,6 +42,15 @@ th {
 .mj_table td {
   padding-left: 20px;
   text-indent: -12px; 
+
+  .mg_col1 {
+    font-weight: bold;
+  }
+
+  p {
+    margin-top: 3px;
+    margin-bottom: 3px;
+  }
 }
 
 $tab-border-color: mix(#000, $border-color, 25%);
