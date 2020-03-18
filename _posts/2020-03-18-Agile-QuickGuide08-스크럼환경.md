@@ -100,7 +100,7 @@ Atlassian의 지라(JIRA)는 애자일 프로젝트에서 가장 선호하는 �
   3.	[JIRA 일감 유형](/agile-quickguide/Agile-QuickGuide-Appendix-JIRA/#jira-일감-유형)
 -	스크럼보드 만들기
   1.	[워크플로우 정의](/agile-quickguide/Agile-QuickGuide-Appendix-JIRA/#워크플로우-정의)
-  2.	[보드 만들기](/agile-quickguide/Agile-QuickGuide-Appendix-JIRA/#보드-만들기)
+  2.	[보드 설정하기](/agile-quickguide/Agile-QuickGuide-Appendix-JIRA/#보드-설정하기)
 -	JIRA 프로젝트의 일감 정의하기
   1.	[프로젝트 “구성요소” 정의](/agile-quickguide/Agile-QuickGuide-Appendix-JIRA/#프로젝트-구성요소-정의)
   2.	[프로젝트 “일감” 등록](/agile-quickguide/Agile-QuickGuide-Appendix-JIRA/#프로젝트-일감-등록)
@@ -109,7 +109,7 @@ Atlassian의 지라(JIRA)는 애자일 프로젝트에서 가장 선호하는 �
 -	대시보드 만들기 
   1.	[데이터 필터 정의](/agile-quickguide/Agile-QuickGuide-Appendix-JIRA/#데이터-필터-정의)
   2.	[가젯 구성](/agile-quickguide/Agile-QuickGuide-Appendix-JIRA/#가젯-구성)
-
+{: .notice--toc}
 
 ***
 
@@ -119,28 +119,6 @@ Atlassian의 지라(JIRA)는 애자일 프로젝트에서 가장 선호하는 �
 </div>
 <br>
 
-<div class="container">
-    <div>
-        <h1>생활코딩</h1>
-    </div>
-    <section class="content">
-        <span class="mg_nav">
-            <ul>
-                <li>html</li>
-                <li>css</li>
-                <li>javascript</li>
-            </ul>
-        </span>
-        <span class="mg_main">
-            Eveniet doloremque animi maxime aliquid rem fugit dolor dignissimos! Quo, ut quod ab.
-        </span>
-        <span class="mg_etc">
-            AD
-        </span>
-    </section>
-    <div>
-        <a href="https://opentutorials.org/course/1">홈페이지</a>
-    </div>
-</div>
+
 
 < EOF >

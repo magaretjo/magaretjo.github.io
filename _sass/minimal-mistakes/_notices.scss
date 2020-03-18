@@ -185,26 +185,3 @@
  
  }
 
-.container {
-  text-decoration: underline;
-  display: flex;
-  flex-direction: column;
-}
-
-.content{
-  display:flex;
-}
-
-span .mg_nav{
-  border-right:1px solid gray;
-}
-span .mg_etc{
-  border-left:1px solid gray;    
-}
-.mg_nav, .mg_etc{
-  flex-basis: 150px;
-  flex-shrink: 0;
-}
-.mg_main{
-  padding:10px;
-}
