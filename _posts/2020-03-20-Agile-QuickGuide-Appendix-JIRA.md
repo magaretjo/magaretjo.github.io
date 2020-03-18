@@ -8,29 +8,28 @@ categories:
   # 예시에 원하는 카테고리가 없을 시, 예시에 추가해주시고 이 문서를 commit&push 해주세요.
   # ex)Cloud, AI, Big Data, Culture, Spring, MSA
 tags:
-  - agile
   - scrum
-  - project
-  - release
-  - milestone
+  - jira
+  - scrum board
+  - sprint
 #	태그는 자유롭게 개수 제한 없이 입력할 수 있습니다. 아래는 예시입니다.
 # ex)Cloud: k8s, Docker, CloudZ, Azure, AWS, Google Cloud
 #	  AI: Abril, Tensor Flow
 #   Big Data: accuinsight+, QUTA
 author: magaretjo
-excerpt: "릴리즈 계획은 무엇이며, 무엇을 릴리즈할 것인가?"
+excerpt: "스크럼 환경 구성을 위한 가이드 후속편으로 JIRA 관련 내용입니다."
 toc: true #(toc를 사용하지 않을 경우에만 false로 변경)
 toc_sticky: true #(toc를 사용하지 않을 경우에만 false로 변경)
 toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
 ---
 <br>
-## <span class="mg_title_1">스크럼 프로젝트의 관리 지표
+## <span class="mg_title_1">JIRA의 기본
 
 ### JIRA시스템 용어
 
 <table class="mj_table">
 <thead>
-  <tr><th>용어</th><th>설명</th>
+  <tr><th style="width:180px;">용어</th><th>설명</th>
   </tr>
 </thead>
 <tbody>
@@ -84,7 +83,7 @@ Level 2 ~ 4까지가 실제적인 일감을 관리할 수 있는 유형들인데
 ### JIRA 일감 유형 
 <table class="mj_table">
 <thead>
-  <tr><th>용어</th><th>설명</th>
+  <tr><th style="width:180px;">일감 유형</th><th>설명</th>
   </tr>
 </thead>
 <tbody>
@@ -146,7 +145,8 @@ JIRA에서 워크플로우(Workflw)는 일감이 진행되면서 변화되는 �
 “보드”는 프로젝트를 관리하기 위해 실제 보여지는 공간을 말한다. 
 대표적인 보드 유형으로는 스크럼보드와 칸반보드가 있고, 어떤 것을 선택하느냐에 따라 보드의 구성이 – 즉 화면에 보여지는 내용 - 이 바뀐다.  Agile 프로젝트이므로 스크럼보드를 선택하여 생성하도록 하자.
   
-![](/assets/images/agile/agile-jira-board-create.png){: width="300"} ![](/assets/images/agile/agile-jira-board-type.png) 
+![](/assets/images/agile/agile-jira-board-create.png){: width="340"} 
+![](/assets/images/agile/agile-jira-board-type.png) {: width="680"} 
 
 보드 설정을 눌러, 보드에서 나타나게 되는 열(Column) 구성을 워크플로우에 맞게 재구성할 수 있다.
 다음과 같이 가장 많이 쓰이는 형태의 열 목록을 구성해보자.

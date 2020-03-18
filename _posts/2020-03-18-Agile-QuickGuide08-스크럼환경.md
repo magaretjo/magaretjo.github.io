@@ -17,7 +17,7 @@ tags:
 #	  AI: Abril, Tensor Flow
 #   Big Data: accuinsight+, QUTA
 author: magaretjo
-excerpt: "릴리즈 계획은 무엇이며, 무엇을 릴리즈할 것인가?"
+excerpt: "스크럼 환경을 어떻게 구성해야 할 지에 대해 알아봅시다."
 toc: true #(toc를 사용하지 않을 경우에만 false로 변경)
 toc_sticky: true #(toc를 사용하지 않을 경우에만 false로 변경)
 toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
@@ -72,10 +72,12 @@ toc_label: "List" #(toc 사용시-변경x, 사용하지 않을 시 삭제)
 컨플루언스는 WYSIWYG 방식으로 사용법이 매우 직관적이며 편리하고, 쉽게 구성할 수 있다
 다음 그림과 같이 왼쪽 공간을 활용하여 프로젝트용 폴더를 구성할 수 있다.
 폴더의 구조는 프로젝트 규모/조직/마일스톤 또는 중요 정보에 따라 구성하되, 맨 상단에 공지사항이 오도록 하고, 맨 아래에는 기타 or 개인용 Working 폴더를 만들어 누구나 편하게 자료를 공유하도록 한다. 
+
 **【 컨플루언스 활용 예시 1】**
  ![](/assets/images/agile/agile-confluence-1.png) 
 
 프로젝트 공간의 홈페이지에 전체 또는 팀별 공지사항, Calendar를 통하여 일정 공유 뿐 아니라 회의록 및 위험/이슈 관리 등 프로젝트 구성원간 주고 받는 내용을 웹 페이지 형식으로 포스팅할 수 있다. 
+
 **【 컨플루언스 활용 예시 2】**
  ![](/assets/images/agile/agile-confluence-2.png) 
  
